@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdú
+- 👋 Hi, I’m Abdu
 - 👀 I’m interested in programming
 - 🌱 I'm currently studying software engineering
 
